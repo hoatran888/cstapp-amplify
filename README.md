@@ -1,0 +1,2 @@
+# cstapp-amplify
+cst school
